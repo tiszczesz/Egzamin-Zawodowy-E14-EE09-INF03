@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	box-sizing: border-box;
+}
+#baner {
+	background: #812F8D;
+	color: white;
+	font-size: 200%;
+	text-align: center;
+	padding: 10px;
+}
+#lewy {
+	background: #BB74C4;
+	color: white;
+	width: 25%;
+	height: 100vh;
+	float: left;
+}
+#prawy {
+	width: 75%;
+	float: left;
+}
+h2 {
+	text-align: center;
+}
+form {
+	margin: 20px;
+}
