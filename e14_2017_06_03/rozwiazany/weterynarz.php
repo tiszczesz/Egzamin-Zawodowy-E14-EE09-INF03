@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8"/>
 	<title>Weterynarz</title>
-	<link rel="stylesheet" href="./weterynarz.css"/>
+	<link rel="stylesheet" href="weterynarz.css"/>
 </head>
 <body>
 	<div id="baner">
@@ -42,7 +42,7 @@
 	</div>
 	<div id="prawy">
 		<h2>WETERYNARZ</h2>
-		<a href="logo.jpg"><img src="./logo-mini.jpg"/></a>
+		<a href="logo.jpg"><img src="logo-mini.jpg"/></a>
 		<p>Krzysztof Nowakowaski, lekarz weterynarii</p>
 		<h2>GODZINY PRZYJĘĆ</h2>
 		<table>

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8"/>
 	<title>Salon pielęgnacji</title>
-	<link rel="stylesheet" href="./salon.css"/>
+	<link rel="stylesheet" href="salon.css"/>
 </head>
 <body>
 	<div id="baner">
