@@ -1,0 +1,39 @@
+body {
+	box-sizing: border-box;
+	margin: 0;
+	font-family: "Times New Roman";
+	text-align: center;
+	font-style: italic
+}
+#baner {
+	background: LightPink;
+	height: 80px;
+	padding-top: 10px;
+}
+#lewy {
+	background: LightPink;
+	height: 500px;
+	width: 20%;
+	font-size: 20px;
+	float: left;
+}
+#prawy {
+	background: black;
+	height: 500px;
+	width: 80%;
+	font-size: 30px;
+	color: LightPink;
+	float: left;
+}
+#stopka {
+	background: LightPink;
+	height: 60px;
+	clear: both;
+}
+#lewy img {
+	width: 180px;
+	height: 180px;
+}
+p {
+	margin-top: 50px;
+}
