@@ -20,7 +20,7 @@
 		</form>
 		<?php
 		$con = mysqli_connect('localhost', 'root', '', 'egzamin6');
-		if(!empty($_POST['wpis'])) {
+		if(isset($_POST['wpis'])) {
 			$wpis = $_POST['wpis'];
 			$kw = "UPDATE zadania SET wpis = '$wpis' WHERE dataZadania = '2020-08-27';";
 			mysqli_query($con, $kw);
