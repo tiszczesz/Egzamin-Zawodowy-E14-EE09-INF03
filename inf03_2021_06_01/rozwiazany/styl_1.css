@@ -3,7 +3,7 @@ body {
 	background: #F6E5DC;
 	font-family: Verdana;
 }
-header {
+#baner {
 	background: #2F180C;
 	text-align: center;
 	color: khaki;
@@ -24,7 +24,7 @@ header {
 	padding: 30px;
 	clear: both;
 }
-footer {
+#stopka {
 	background: #2F180C;
 	color: khaki;
 	height: 60px;
