@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	font-family: Arial;
+}
+#baner1 {
+	background: #483D8B;
+	height: 150px;
+	width: 30%;
+	float: left;
+}
+#baner2 {
+	background: #483D8B;
+	color: white;
+	height: 150px;
+	width: 70%;
+	float: left;
+}
+.dane {
+	background: #AFEEEE;
+	width: 150px;
+	height: 100px;
+	margin: 3px;
+	border: 1px solid;
+	float: left;
+}
+#stopka {
+	background: #483D8B;
+	color: white;
+	padding: 10px;
+	clear: both;
+}
+h5 {
+	text-align: center;
+}

@@ -1,0 +1,4 @@
+zapytanie 1: SELECT nazwa, cena FROM uslugi;
+zapytanie 2: SELECT imie, rodzaj, nastepna_wizyta, telefon FROM zwierzeta WHERE nastepna_wizyta != 0;
+zapytanie 3: SELECT zwierzeta.rodzaj, uslugi.nazwa FROM zwierzeta, uslugi WHERE zwierzeta.usluga_id = uslugi.id;
+zapytanie 4: SELECT MIN(cena) FROM uslugi;
