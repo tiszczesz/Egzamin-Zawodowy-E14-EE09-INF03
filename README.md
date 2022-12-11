@@ -1,5 +1,5 @@
 ## Technik informatyk - egzamin zawodowy E.14/EE.09/INF.03
-Arkusze z plikami wraz z rozwiazaniami napisanymi przeze mnie. \ 
+Arkusze z plikami wraz z rozwiazaniami napisanymi przeze mnie.
 Discord: **Chriskyy#0181**.
 
 Liczba arkuszy - 80
