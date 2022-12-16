@@ -5,7 +5,7 @@ Discord: **Chriskyy#0181**.
 
 Liczba arkuszy - 80
 
-Wszystkie zadanie z arkuszy z JavaScript (23) [zadania_js](zadania_js) \
+Wszystkie zadanie z arkuszy z JavaScript (23) [zadania_js](zadania_js)
 ## Formuła 2012 - E.14 (39 arkuszy)
 
 ### 2017
