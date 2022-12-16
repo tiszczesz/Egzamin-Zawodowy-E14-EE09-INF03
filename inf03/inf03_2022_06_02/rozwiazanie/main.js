@@ -1,14 +1,13 @@
 function oblicz() {
-	let rodzaj = document.getElementById('rodzaj').value
-	let ilosc = document.getElementById('ilosc').value
-	let wynik = document.getElementById('wynik')
-	let koszt = 0
-	
-	if(rodzaj == 1) {
-		koszt = ilosc * 4
-	}
-	if(rodzaj == 2) {
-		koszt = ilosc * 3.5
-	}
-	wynik.innerHTML = "koszt paliwa: " + koszt + " zł"
+    const rodzajPaliwa = +document.getElementById("rodzaj").value
+    const iloscLitrow = +document.getElementById("ilosc").value
+    const wynik = document.getElementById("wynik")
+    let cena = 0
+    if (rodzajPaliwa == 1) {
+        cena = 4
+    }
+    if (rodzajPaliwa == 2) {
+        cena = 3.5
+    }
+    wynik.innerHTML = "koszt paliwa: " + cena * iloscLitrow + " zł"
 }

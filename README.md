@@ -1,9 +1,11 @@
 ## Technik informatyk - egzamin zawodowy E.14/EE.09/INF.03
 Arkusze z plikami wraz z rozwiazaniami napisanymi przeze mnie.
+
 Discord: **Chriskyy#0181**.
 
 Liczba arkuszy - 80
 
+Wszystkie zadanie z arkuszy z JavaScript (23) [zadania_js](zadania_js) \
 ## Formuła 2012 - E.14 (39 arkuszy)
 
 ### 2017
