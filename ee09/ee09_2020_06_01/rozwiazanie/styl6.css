@@ -1,37 +1,48 @@
 body {
-	margin: 0;
-	font-family: Georgia;
+    margin: 0;
+    font-family: Georgia;
 }
-#baner1,
-#baner2 {
-	background: #3CB371;
-	color: white;
-	height: 100px;
-	width: 40%;
-	float: left;
+
+header {
+    display: flex;
 }
-#baner3 {
-	background: #3CB371;
-	height: 100px;
-	width: 20%;
-	float: left;
+
+section#bannerOne,
+section#bannerTwo {
+    background-color: #3CB371;
+    color: white;
+    height: 100px;
+    width: 40%;
 }
-.blok {
-	background: #FFDAB9;
-	width: 170px;
-	height: 90px;
-	margin: 5px;
-	border: 1px solid #3CB371;
-	float: left;
+
+section#bannerThree {
+    background-color: #3CB371;
+    height: 100px;
+    width: 20%;
 }
-#stopka {
-	background: #3CB371;
-	color: white;
-	clear: both;
+
+main {
+    display: flex;
+    flex-wrap: wrap;
 }
+
+.dzien {
+    background-color: #FFDAB9;
+    width: 170px;
+    height: 90px;
+    margin: 5px;
+    border: 1px solid #3CB371;
+}
+
+footer {
+    background-color: #3CB371;
+    color: white;
+}
+
 h6 {
-	text-align: right;
+    text-align: right;
 }
+
 form {
-	padding: 30px;
+    padding: 30px;
 }

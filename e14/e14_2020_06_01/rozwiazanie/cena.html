@@ -1,38 +1,34 @@
 <!DOCTYPE html>
-<html>
+<html lang="pl">
+
 <head>
-	<meta charset="UTF-8" />
-	<title>malarz</title>
-	<link rel="stylesheet" href="styl.css" />
+    <meta charset="UTF-8">
+    <title>malarz</title>
+    <link rel="stylesheet" href="./styl.css">
 </head>
+
 <body>
-	<div id="baner">
-		<h1><a href="index.html">Koszty farby</a></h1>
-	</div>
-	<div id="lewy">
-		<h3>Mieszamy czy wyceniamy?</h3>
-		<a href="mieszamy.html">Mieszamy</a><br/>
-		<a href="cena.html">Wyceniamy</a>
-	</div>
-	<div id="prawy">
-		<h3>Obliczanie na podstawie powierzchni zapotrzebowania na farbę</h3>
-		<label>
-			Podaj powierzchnię:
-			<input type="number" id="pow" min="0" /><br/>
-		</label>
-		<button type="button" onclick="policz();">Policz</button>
-		<p id="wynik"></p>
-	</div>
-	<div id="stopka">
-		MALARZ<br/>
-		Stronę opracował: PESEL
-	</div>
-	<script>
-	function policz() {
-		let pow = document.getElementById("pow").value;
-		let res = document.getElementById("wynik");
-		res.innerHTML = "Liczba jednolitrowych puszek farby potrzebnych do pomalowania wynosi: " + Math.round(pow/4);
-	}
-	</script>
+    <header>
+        <h1>Koszty farby</h1>
+    </header>
+    <main>
+        <section id="panelLewy">
+            <h3>Mieszamy czy wyceniamy?</h3>
+            <a href="./mieszamy.html">Mieszamy</a>
+			<br />
+            <a href="./cena.html">Wyceniamy</a>
+        </section>
+        <section id="panelPrawy">
+            <h3>Obliczanie na podstawie powierzchni zapotrzebowania na farbę</h3>
+            <label>Podaj powierzchnię:
+                <input type="number" id="powierzchnia" />
+            </label>
+            <button type="button" onclick="oblicz()">Policz</button>
+            <p id="wynik"></p>
+        </section>
+    </main>
+    <footer>MALARZ<br />Stronę opracował: Chriskyy#0181</footer>
+    <script src="./main.js"></script>
 </body>
+
 </html>

@@ -1,57 +1,61 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="UTF-8" />
-	<title>Organizer</title>
-	<link rel="stylesheet" href="styl6.css" />
-</head>
-<body>
-	<div id="baner1">
-		<h2>MÓJ ORGANIZER</h2>
+<html lang="pl">
 
-	</div>
-	<div id="baner2">
-		<form action="organizer.php" method="post">
-			<label>
-				Wpis wydarzenia:
-				<input type="text" name="wpis" />
-			</label>
-			<button>ZAPISZ</button>
-		</form>
-		<?php
-		$con = mysqli_connect('localhost', 'root', '', 'egzamin6');
-		if(isset($_POST['wpis'])) {
-			$wpis = $_POST['wpis'];
-			$kw = "UPDATE zadania SET wpis = '$wpis' WHERE dataZadania = '2020-08-27';";
-			mysqli_query($con, $kw);
-		}
-		?>
-	</div>
-	<div id="baner3">
-		<img src="logo2.png" alt="Mój organizer" />
-	</div>
-	<div id="glowny">
-		<?php
-		$kw1 = "SELECT dataZadania, miesiac, wpis FROM zadania WHERE miesiac = 'sierpien';";
-		$res1 = mysqli_query($con, $kw1);
-		while($tab = mysqli_fetch_row($res1)) {
-			echo "<div class='blok'>
-					<h6>$tab[0], $tab[1]</h6>
-					<p>$tab[2]</p>
-				</div>";
-		}
-		?>
-	</div>
-	<div id="stopka">
-		<?php
-		$kw2 = "SELECT miesiac, rok FROM zadania WHERE dataZadania = '2020-08-01';";
-		$res2 = mysqli_query($con, $kw2);
-		while($tab = mysqli_fetch_row($res2)) {
-			echo "<h1>miesiąc: $tab[0], rok: $tab[1]</h1>";
-		}
-		mysqli_close($con);
-		?>
-		<p>Stronę wykonał: Chriskyy#0181</p>
-	</div>
+<head>
+    <meta charset="UTF-8">
+    <title>Organizer</title>
+    <link rel="stylesheet" href="./styl6.css">
+</head>
+
+<body>
+    <header>
+        <section id="bannerOne">
+            <h2>MÓJ ORGANIZER</h2>
+        </section>
+        <section id="bannerTwo">
+            <form action="./organizer.php" method="POST">
+                <label>Wpis wydarzenia:
+                    <input type="text" name="wpis">
+                </label>
+                <button name="wyslij">ZAPISZ</button>
+            </form>
+            <?php
+            if (isset($_POST['wyslij'])) {
+                $wpis = $_POST['wpis'];
+                $con = mysqli_connect('localhost', 'root', '', 'egzamin6');
+                $q = "UPDATE zadania SET wpis = '$wpis' WHERE dataZadania = '2020-08-27';";
+                mysqli_query($con, $q);
+            }
+            ?>
+        </section>
+        <section id="bannerThree">
+            <img src="./logo2.png" alt="Mój organizer">
+        </section>
+    </header>
+    <main>
+        <?php
+        $con = mysqli_connect('localhost', 'root', '', 'egzamin6');
+        $q = "SELECT dataZadania, miesiac, wpis FROM zadania WHERE miesiac = 'sierpien';";
+        $res = mysqli_query($con, $q);
+        while ($row = mysqli_fetch_array($res)) {
+            echo "<div class='dzien'>
+                    <h6>$row[0], $row[1]</h6>
+                    <p>$row[2]</p>
+                </div>";
+        }
+        ?>
+    </main>
+    <footer>
+        <?php
+        $q = "SELECT miesiac, rok FROM zadania WHERE dataZadania = '2020-08-01';";
+        $res = mysqli_query($con, $q);
+        while ($row = mysqli_fetch_array($res)) {
+            echo "<h1>miesiąc: $row[0], rok: $row[1]</h1>";
+        }
+        mysqli_close($con);
+        ?>
+        <p>Stronę wykonał: Chriskyy#0181</p>
+    </footer>
 </body>
+
 </html>
