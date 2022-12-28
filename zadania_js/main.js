@@ -1,4 +1,6 @@
+/******************/
 /* e14_2018_06_05 */
+/******************/
 function obliczWesele() {
     const iloscGosci = +document.getElementById('iloscGosci').value
     const wynik = document.getElementById('wynik_1')
@@ -10,7 +12,10 @@ function obliczWesele() {
         wynik.innerHTML = "Koszt Twojego wesela to " + koszt + " złotych"
     }
 }
+
+/******************/
 /* e14_2018_06_06 */
+/******************/
 function obliczKosztDostawyZG() {
     const iloscKilometrowZG = +document.getElementById('iloscKilometrowZG').value
     const wynik = document.getElementById('wynik_2')
@@ -23,7 +28,9 @@ function obliczKosztDostawyZG() {
     }
 }
 
+/******************/
 /* e14_2019_01_02 */
+/******************/
 function rozmiarCzcionki() {
     const rozmiarTekstu = +document.getElementById('rozmiarTekstu').value
     const wynik = document.getElementById('wynik_3')
@@ -40,7 +47,9 @@ function kolorTekstu(kolor) {
     wynik.style.color = kolor
 }
 
+/******************/
 /* e14_2019_01_04 */
+/******************/
 function obliczKawa() {
     const wynik = document.getElementById('wynik_4')
     const numerKawy = +document.getElementById('numerKawy').value
@@ -64,7 +73,7 @@ function obliczKawa() {
     }
 }
 
-/* Funkcja z if zamiast switch 
+/* Funkcja z if zamiast switch *
 function obliczKawa() {
     const wynik = document.getElementById('wynik_4')
     const numerKawy = +document.getElementById('numerKawy').value
@@ -83,7 +92,9 @@ function obliczKawa() {
 }
 //*/
 
+/******************/
 /* e14_2019_01_11 */
+/******************/
 function over(id, img) {
     document.getElementById(id).src = img;
 }
@@ -97,7 +108,9 @@ function clicked(id, img) {
     document.getElementById("glownyPies").src = img;
 }
 
+/******************/
 /* e14_2019_01_12 */
+/******************/
 function over2(id, img) {
     document.getElementById(id).src = img;
 }
@@ -111,7 +124,9 @@ function clicked2(id, img) {
     document.getElementById("glownyPies2").src = img;
 }
 
+/******************/
 /* e14_2019_06_05 */
+/******************/
 function przeslijForm() {
     const imieForm = document.getElementById('imieForm').value
     const nazwiskoForm = document.getElementById('nazwiskoForm').value
@@ -126,7 +141,9 @@ function przeslijForm() {
     }
 }
 
+/******************/
 /* e14_2019_06_06 */
+/******************/
 function przeslijForm2() {
     const imieForm = document.getElementById('imieForm2').value
     const nazwiskoForm = document.getElementById('nazwiskoForm2').value
@@ -136,7 +153,9 @@ function przeslijForm2() {
     wynik.innerHTML = imieForm + " " + nazwiskoForm + "<br/>" + emailForm + "<br/> Usługa: " + uslugaForm
 }
 
+/******************/
 /* e14_2020_01_02 */
+/******************/
 function zamowCukierka() {
     const ksztaltCukierka = +document.getElementById("ksztaltCukierka").value;
     const r = +document.getElementById("rCukierek").value
@@ -161,7 +180,7 @@ function zamowCukierka() {
     kolorCukierka.style = "background: rgb(" + r + ", " + g + ", " + b + ");"
 }
 
-/* Funkcja z if zamiast switch 
+/* Funkcja z if zamiast switch *
 function zamowCukierka2() {
     const ksztaltCukierka = +document.getElementById("ksztaltCukierka2").value;
     const r = +document.getElementById("rCukierek2").value
@@ -182,7 +201,9 @@ function zamowCukierka2() {
 }
 //*/
 
+/******************/
 /* e14_2020_01_03 */
+/******************/
 function zamowCukierka2() {
     const ksztaltCukierka = +document.getElementById("ksztaltCukierka2").value;
     const r = +document.getElementById("rCukierek2").value
@@ -207,7 +228,7 @@ function zamowCukierka2() {
     kolorCukierka.style = "background: rgb(" + r + ", " + g + ", " + b + ");"
 }
 
-/* Funkcja z if zamiast switch 
+/* Funkcja z if zamiast switch *
 function zamowCukierka2() {
     const ksztaltCukierka = +document.getElementById("ksztaltCukierka2").value;
     const r = +document.getElementById("rCukierek2").value
@@ -228,14 +249,18 @@ function zamowCukierka2() {
 }
 //*/
 
+/******************/
 /* e14_2020_06_01 */
+/******************/
 function policzFarba() {
     const powierzchnia = +document.getElementById("powierzchnia").value
     const wynik = document.getElementById("wynik_11")
     wynik.innerHTML = "Liczba jednolitrowych puszek farby potrzebnych do pomalowania wynosi: " + Math.ceil(powierzchnia / 4)
 }
 
+/******************/
 /* e14_2020_06_04 */
+/******************/
 function ozdoba(wybor) {
     const wynik = document.getElementById("wynik_12")
     if (wybor == "choinka") {
@@ -249,7 +274,9 @@ function ozdoba(wybor) {
     }
 }
 
+/*******************/
 /* ee09_2019_06_02 */
+/*******************/
 function obliczPaliwo() {
     const rodzajPaliwa = +document.getElementById("rodzajPaliwa").value
     const iloscLitrow = +document.getElementById("iloscLitrow").value
@@ -264,7 +291,9 @@ function obliczPaliwo() {
     wynik.innerHTML = "koszt paliwa: " + cena * iloscLitrow + " zł"
 }
 
+/*******************/
 /* ee09_2019_06_04 */
+/*******************/
 function kalkulator(operator) {
     const a = +document.getElementById("liczbaA").value
     const b = +document.getElementById("liczbaB").value
@@ -288,7 +317,7 @@ function kalkulator(operator) {
     }
 }
 
-/* Osobne funkcje dla każdego operatora
+/* Osobne funkcje dla każdego operatora *
 function dodawanie() {
     const a = +document.getElementById("liczbaA").value
     const b = +document.getElementById("liczbaB").value
@@ -325,7 +354,9 @@ function potegowanie() {
 }
 //*/
 
+/*******************/
 /* ee09_2019_06_05 */
+/*******************/
 function generujCiag() {
     let a = +document.getElementById("pierwszyWyraz").value
     const r = +document.getElementById("roznicaCiagu").value
@@ -341,7 +372,9 @@ function generujCiag() {
     wynik.innerHTML = tekst
 }
 
+/*******************/
 /* ee09_2020_01_02 */
+/*******************/
 function obliczPaliwo2() {
     const dystansKM = +document.getElementById("dystansKM").value
     const spalanie = +document.getElementById("spalanie").value
@@ -350,7 +383,9 @@ function obliczPaliwo2() {
     wynik.innerHTML = "Potrzebujesz: " + Math.round(paliwo) + " litrów paliwa";
 }
 
+/*******************/
 /* ee09_2020_06_04 */
+/*******************/
 function cenaWizyty() {
     const piling = document.getElementById("piling").checked
     const maska = document.getElementById("maska").checked
@@ -373,7 +408,9 @@ function cenaWizyty() {
     wynik.innerHTML = "Cena zabiegów: " + cena
 }
 
+/*******************/
 /* ee09_2020_06_05 */
+/*******************/
 function cenaStrzyzenia() {
     const krotkie = document.getElementById("krotkie").checked
     const srednie = document.getElementById("srednie").checked
@@ -396,20 +433,22 @@ function cenaStrzyzenia() {
     wynik.innerHTML = "Cena strzyżenia: " + cena
 }
 
+/*******************/
 /* ee09_2022_01_06 */
+/*******************/
 function changeBg(kolor) {
     const prawy = document.getElementById('prawy19')
     prawy.style.backgroundColor = kolor
 }
 
 function fontColor(kolor) {
-    const wynik = document.getElementById("wynik_19")
-    wynik.style.color = kolor
+    const prawy = document.getElementById('prawy19')
+    prawy.style.color = kolor
 }
 
 function fontSizing(size) {
-    const wynik = document.getElementById("wynik_19")
-    wynik.style.fontSize = size + "%"
+    const prawy = document.getElementById('prawy19')
+    prawy.style.fontSize = size + "%"
 }
 
 function ramka() {
@@ -426,12 +465,15 @@ function punktor(typ) {
     lista.style.listStyleType = typ;
 }
 
+/*******************/
 /* ee09_2022_01_07 */
+/*******************/
 function zamianaImg(img) {
     const obraz = document.getElementById('lanzarotte')
     obraz.src = "img/" + img
 }
 
+/* Wersja nr 1 */
 let zmiana = 0
 function iconChange() {
     zmiana++
@@ -442,8 +484,24 @@ function iconChange() {
         polub.src = "img/icon-on.png"
     }
 }
+//*/
 
+/* Wersja nr 2 *
+let flag = false
+function iconChange() {
+    flag = !flag
+    const polub = document.getElementById("icon")
+    if (flag) {
+        polub.src = "img/icon-on.png"
+    } else {
+        polub.src = "img/icon-off.png"
+    }
+}
+//*/
+
+/*******************/
 /* ee09_2022_06_02 */
+/*******************/
 function paleta() {
     const h = +document.getElementById('wartoscH').value
     const d1 = document.getElementById('d1')
@@ -459,7 +517,10 @@ function paleta() {
     d5.style = 'background-color: hsl(' + h + ', 20%, 50%)'
 }
 
+/*******************/
 /* ee09_2022_06_04 */
+/*******************/
+/* Wersja nr 1 *
 const iloscProduktow = document.querySelectorAll('.ilosc')
 const nazwaProduktow = document.querySelectorAll('.produkt')
 const aktualizujPrzycisk = document.querySelectorAll('.aktualizuj')
@@ -495,8 +556,43 @@ zamowPrzycisk.forEach((przycisk, i) => {
     })
 })
 sprawdz()
+//*/
 
+/* Wersja nr 2 */
+function sprawdz2() {
+    const produkty = ['p1', 'p2', 'p3', 'p4']
+    for (let i = 0; i < produkty.length; i++) {
+        const ilosc = document.getElementById(produkty[i]).innerHTML
+        const produkt = document.getElementById(produkty[i])
+        if (ilosc == 0) {
+            produkt.style = 'background-color: red;'
+        }
+        if (ilosc >= 1 && ilosc <= 5) {
+            produkt.style = 'background-color: yellow;'
+        }
+        if (ilosc > 5) {
+            produkt.style = 'background-color: Honeydew;'
+        }
+    }
+}
+
+function aktualizuj(produktID) {
+    const produkt = document.getElementById(produktID)
+    const nowaIlosc = prompt('Podaj nową ilość:')
+    produkt.innerHTML = nowaIlosc
+    sprawdz2()
+}
+
+let idZamowienia = 0
+function zamow(nazwaProduktu) {
+    alert('Zamówienie nr: ' + idZamowienia + ' Produkt: ' + nazwaProduktu)
+    idZamowienia++
+}
+sprawdz2()
+
+/********************/
 /* inf03_2022_06_02 */
+/********************/
 function obliczPaliwo3() {
     const rodzajPaliwa = +document.getElementById("rodzajPaliwa3").value
     const iloscLitrow = +document.getElementById("iloscLitrow3").value
