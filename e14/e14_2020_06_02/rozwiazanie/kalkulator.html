@@ -22,7 +22,7 @@
             <a href="./kalkulator.html">KALKULATOR</a>
         </section>
     </nav>
-    <section id="banerTwo"></section>
+    <section id="bannerTwo"></section>
     <main>
         <section id="panelLewy">
         </section>
