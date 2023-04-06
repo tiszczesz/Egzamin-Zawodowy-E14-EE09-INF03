@@ -368,10 +368,10 @@ Wszystkie zadania JavaScript z arkuszy z lat 2017-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2023_01_02/zad2.zip) 
 				[Rozwiazanie](ee09/ee09_2023_01_02/rozwiazanie.zip)
   - 03 (**JS**) - Gazeta [EE.09-03-23.01-SG](ee09/ee09_2023_01_03) \
-				[Arkusz](ee09/ee09_2023_01_03/arkusz)
+				[Arkusz](ee09/ee09_2023_01_03/arkusz) 
 				[Zasady oceny](ee09/ee09_2023_01_03) 
-				[Baza](ee09/ee09_2023_01_03)  
-				[Rozwiazanie](ee09/ee09_2023_01_03/rozwiazanie.zip)
+				[Baza](ee09/ee09_2023_01_03) 
+				[Rozwiazanie](ee09/ee09_2023_01_03/rozwiazanie.zip) 
   - 04 (**PHP**) - Wizytówki [EE.09-04-23.01-SG](ee09/ee09_2023_01_04) \
 				[Arkusz](ee09/ee09_2023_01_04/arkusz) 
 				[Zasady oceny](ee09/ee09_2023_01_04) 
