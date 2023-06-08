@@ -396,7 +396,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
   - 04 (**JS**) - Zamówienia hurtowe [EE.09-04-22.06-SG](ee09/ee09_2022_06_04) \
 				[Arkusz](ee09/ee09_2022_06_04/ee_09_2022_06_04_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_06_04/ee_09_2022_06_04_SG_zo.xlsx) 
-				[Baza](ee09/ee09_2022_06_04/zad4.zip) 
+				[Baza](ee09/ee09_2022_06_04/zad4.zip) \
 				[Rozwiązanie](ee09/ee09_2022_06_04/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2022_06_04/rozwiazanie.zip)
 ### 2023
