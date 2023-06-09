@@ -45,7 +45,7 @@ td {
 	text-align: center;
 	font-size: 120%;
 }
-td:hover {
+tr:hover {
 	color: yellow;
 }
 img, h3 {
