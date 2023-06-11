@@ -60,7 +60,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
   - 02 (**JS**) - Formatowanie dokumentu HTML [E.14-02-19.01](e14/e14_2019_01_02) \
 				[Arkusz](e14/e14_2019_01_02/e14_2019_01_02.pdf) 
 				[Baza](e14/e14_2019_01_02/pliki2.zip) \
-				[Rozwiązanie(e14/e14_2019_01_02/rozwiazanie)
+				[Rozwiązanie](e14/e14_2019_01_02/rozwiazanie)
 				[RozwiązanieZIP](e14/e14_2019_01_02/rozwiazanie.zip)
   - 03 (**PHP**) - Filmoteka [E.14-03-19.01](e14/e14_2019_01_03) \
 				[Arkusz](e14/e14_2019_01_03/e14_2019_01_03.pdf) 
