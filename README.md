@@ -1,7 +1,7 @@
 ## Technik informatyk - egzamin zawodowy E.14/EE.09/INF.03
 Arkusze z plikami wraz z rozwiazaniami napisanymi przeze mnie.
 
-Discord: **Chriskyy** \
+Discord: **Chriskyy**
 
 Donate: 
 - [Revolut - @chriskyy](https://revolut.me/chriskyy)
