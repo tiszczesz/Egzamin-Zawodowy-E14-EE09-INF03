@@ -1,7 +1,11 @@
 ## Technik informatyk - egzamin zawodowy E.14/EE.09/INF.03
 Arkusze z plikami wraz z rozwiazaniami napisanymi przeze mnie.
 
-Discord: **Chriskyy#0181**.
+Discord: **Chriskyy** \
+
+Donate: 
+- [Revolut - @chriskyy](https://revolut.me/chriskyy)
+- BLIK i inne metody przez discord
 
 Liczba arkuszy - 79
 
@@ -409,22 +413,26 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[RozwiązanieZIP](ee09/ee09_2023_01_01/rozwiazanie.zip)
   - 02 (**JS**) - Galeria [EE.09-02-23.01-SG](ee09/ee09_2023_01_02) \
 				[Arkusz](ee09/ee09_2023_01_02/arkusz) 
-				[Zasady oceny](ee09/ee09_2023_01_02) 
 				[Baza](ee09/ee09_2023_01_02/zad2.zip) \
 				[Rozwiązanie](ee09/ee09_2023_01_02/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2023_01_02/rozwiazanie.zip)
   - 03 (**JS**) - Gazeta [EE.09-03-23.01-SG](ee09/ee09_2023_01_03) \
 				[Arkusz](ee09/ee09_2023_01_03/arkusz) 
-				[Zasady oceny](ee09/ee09_2023_01_03) 
 				[Baza](ee09/ee09_2023_01_03) \
 				[Rozwiązanie](ee09/ee09_2023_01_03/rozwiazanie) 
 				[RozwiązanieZIP](ee09/ee09_2023_01_03/rozwiazanie.zip) 
   - 04 (**PHP**) - Wizytówki [EE.09-04-23.01-SG](ee09/ee09_2023_01_04) \
 				[Arkusz](ee09/ee09_2023_01_04/arkusz) 
-				[Zasady oceny](ee09/ee09_2023_01_04) 
 				[Baza](ee09/ee09_2023_01_04/zad4.zip) \
 				[Rozwiązanie](ee09/ee09_2023_01_04/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2023_01_04/rozwiazanie.zip)
+- Czerwiec
+  - 01 (**PHP**) - Forum wielbicieli psów [EE.09-01-23.06-SG](ee09/ee09_2022_01_04) \
+				[Arkusz](ee09/ee09_2022_01_04/ee_09_2022_01_04_SG.pdf) 
+				[Zasady oceny](ee09/ee09_2022_01_04/ee_09_2022_01_04_SG_zo.xlsx) 
+				[Baza](ee09/ee09_2022_01_04/pliki4.zip) \
+				[Rozwiązanie](ee09/ee09_2022_01_04/rozwiazanie)
+				[RozwiązanieZIP](ee09/ee09_2022_01_04/rozwiazanie.zip)
 ## Formuła 2019 - INF.03 (10)
 ### 2021
 - Czerwiec
@@ -465,31 +473,47 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 - Styczeń
   - 01 (**JS**) - Malarz [INF.03-01-23.01-SG](inf03/inf03_2023_01_01) \
 				[Arkusz](inf03/inf03_2023_01_01/arkusz) 
-				[Zasady oceny](inf03/inf03_2023_01_01)
 				[Baza](inf03/inf03_2023_01_01/zad1.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_01/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_01/rozwiazanie.zip)
   - 02 (**PHP**) - Wynajem pokoi [INF.03-02-23.01-SG](inf03/inf03_2023_01_02) \
 				[Arkusz](inf03/inf03_2023_01_02/arkusz) 
-				[Zasady oceny](inf03/inf03_2023_01_02)
 				[Baza](inf03/inf03_2023_01_02/zad2.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_02/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_02/rozwiazanie.zip)
   - 03 (**PHP**) - Kwiaty [INF.03-03-23.01-SG](inf03/inf03_2023_01_03) \
 				[Arkusz](inf03/inf03_2023_01_03/arkusz) 
-				[Zasady oceny](inf03/inf03_2023_01_03)
 				[Baza](inf03/inf03_2023_01_03/zad3.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_03/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_03/rozwiazanie.zip)
   - 04 (**PHP**) - Wycieczki po Europie [INF.03-04-23.01-SG](inf03/inf03_2023_01_04) \
 				[Arkusz](inf03/inf03_2023_01_04/arkusz) 
-				[Zasady oceny](inf03/inf03_2023_01_04)
 				[Baza](inf03/inf03_2023_01_04/zad4.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_04/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_04/rozwiazanie.zip)
   - 05 (**PHP**) - Sierpniowy kalendarz [INF.03-05-23.01-SG](inf03/inf03_2023_01_05) \
 				[Arkusz](inf03/inf03_2023_01_05/arkusz) 
-				[Zasady oceny](inf03/inf03_2023_01_05)
 				[Baza](inf03/inf03_2023_01_05/zad5.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_05/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_05/rozwiazanie.zip)
+- Czerwiec (wzorowane na podanych, minimalne zmiany kwerend, css i modyfikacja grafiki)
+  - 01 (**PHP**) - Sklep papierniczy [INF.03-01-23.06](e14/e14_2019_06_01) \
+				[Arkusz](e14/e14_2019_06_01/e14_2019_06_01.pdf) 
+				[Baza](e14/e14_2019_06_01/materialy1.zip) \
+				[Rozwiązanie](e14/e14_2019_06_01/rozwiazanie)
+				[RozwiązanieZIP](e14/e14_2019_06_01/rozwiazanie.zip)
+   - 02 (**PHP**) - Hurtownia papiernicza [INF.03-02-23.06](e14/e14_2019_06_02) \
+				[Arkusz](e14/e14_2019_06_02/e14_2019_06_02.pdf) 
+				[Baza](e14/e14_2019_06_02/materialy2.zip) \
+				[Rozwiązanie](e14/e14_2019_06_02/rozwiazanie)
+				[RozwiązanieZIP](e14/e14_2019_06_02/rozwiazanie.zip)
+   - 03 (**PHP**) - Biblioteka [INF.03-03-23.06](e14/e14_2019_06_03) \
+				[Arkusz](e14/e14_2019_06_03/e14_2019_06_03.pdf) 
+				[Baza](e14/e14_2019_06_03/materialy3.zip) \
+				[Rozwiązanie](e14/e14_2019_06_03/rozwiazanie)
+				[RozwiązanieZIP](e14/e14_2019_06_03/rozwiazanie.zip)
+   - 04 (**PHP**) - Biblioteka [INF.03-04-23.06](e14/e14_2019_06_04) \
+				[Arkusz](e14/e14_2019_06_04/e14_2019_06_04.pdf) 
+				[Baza](e14/e14_2019_06_04/materialy4.zip) \
+				[Rozwiązanie](e14/e14_2019_06_04/rozwiazanie)
+				[RozwiązanieZIP](e14/e14_2019_06_04/rozwiazanie.zip)
