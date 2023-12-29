@@ -15,10 +15,10 @@ Wybrane szczególne arkusze:
 - **Wyświetlanie wielu bloków PHP** - Warzywniak [EE.09-02-21.06-SG](ee09/ee09_2021_06_02)
 - **Wyświetlanie wielu bloków PHP** - Wypożyczalnia filmów [EE.09-03-21.06-SG](ee09/ee09_2021_06_03)
 - **Panel logowania PHP** - Portal społecznościowy [EE.09-05-22.01-SG](ee09/ee09_2022_01_05)
-Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 - **JS** - Konfugurator stylu [EE.09-06-22.01-SG](ee09/ee09_2022_01_06)
 - **Trudniejszy JS** - Zamówienia hurtowe [EE.09-04-22.06-SG](ee09/ee09_2022_06_04)
 
+Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 ## Formuła 2012 - E.14 (34)
 ### 2018
 - Styczeń
