@@ -5,11 +5,20 @@ Discord: **Chriskyy**
 
 Donate: 
 - [Revolut - @chriskyy](https://revolut.me/chriskyy)
-- BLIK i inne metody przez discord
+- [Buycoffee.to - chriskyy](https://buycoffee.to/chriskyy)
 
-Liczba arkuszy - 79
-
+Wybrane szczególne arkusze:
+- **JS** Formatowanie dokumentu HTML [E.14-02-19.01](e14/e14_2019_01_02)
+- **JS** - Pomocnik matematyczny [EE.09-04-19.06](ee09/ee09_2019_06_04)
+- **JS** - Ciągi liczbowe [EE.09-05-19.06](ee09/ee09_2019_06_05)
+- **Cookies** - Przyloty samolotów [EE.09-05-21.01-SG](ee09/ee09_2021_01_05)
+- **Wyświetlanie wielu bloków PHP** - Warzywniak [EE.09-02-21.06-SG](ee09/ee09_2021_06_02)
+- **Wyświetlanie wielu bloków PHP** - Wypożyczalnia filmów [EE.09-03-21.06-SG](ee09/ee09_2021_06_03)
+- **Panel logowania PHP** - Portal społecznościowy [EE.09-05-22.01-SG](ee09/ee09_2022_01_05)
 Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
+- **JS** - Konfugurator stylu [EE.09-06-22.01-SG](ee09/ee09_2022_01_06)
+- **Trudniejszy JS** - Zamówienia hurtowe [EE.09-04-22.06-SG](ee09/ee09_2022_06_04)
+
 ## Formuła 2012 - E.14 (34)
 ### 2018
 - Styczeń
@@ -444,7 +453,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[RozwiązanieZIP](inf03/inf03_2021_06_01/rozwiazanie.zip)
 ### 2022
 - Styczeń
-  - 01 (**PHP**) - Restauracja Wszystkie Smaki [INF.03-01-21.06-SG](inf03/inf03_2022_01_01) \
+  - 01 (**PHP**) - Restauracja Wszystkie Smaki [INF.03-01-22.01-SG](inf03/inf03_2022_01_01) \
 				[Arkusz](inf03/inf03_2022_01_01/inf_03_2022_01_01_SG.pdf) 
 				[Zasady oceny](inf03/inf03_2022_01_01/inf_03_2022_01_01_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2022_01_01/zad1.zip) \
@@ -472,27 +481,32 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 ### 2023
 - Styczeń
   - 01 (**JS**) - Malarz [INF.03-01-23.01-SG](inf03/inf03_2023_01_01) \
-				[Arkusz](inf03/inf03_2023_01_01/arkusz) 
+				[Arkusz](inf03/inf03_2023_01_01/inf_03_2023_01_01_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_01_01/inf_03_2023_01_01_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2023_01_01/zad1.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_01/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_01/rozwiazanie.zip)
   - 02 (**PHP**) - Wynajem pokoi [INF.03-02-23.01-SG](inf03/inf03_2023_01_02) \
-				[Arkusz](inf03/inf03_2023_01_02/arkusz) 
+				[Arkusz](inf03/inf03_2023_01_02/inf_03_2023_01_02_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_01_02/inf_03_2023_01_02_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2023_01_02/zad2.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_02/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_02/rozwiazanie.zip)
   - 03 (**PHP**) - Kwiaty [INF.03-03-23.01-SG](inf03/inf03_2023_01_03) \
-				[Arkusz](inf03/inf03_2023_01_03/arkusz) 
+				[Arkusz](inf03/inf03_2023_01_03/inf_03_2023_01_03_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_01_03/inf_03_2023_01_03_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2023_01_03/zad3.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_03/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_03/rozwiazanie.zip)
   - 04 (**PHP**) - Wycieczki po Europie [INF.03-04-23.01-SG](inf03/inf03_2023_01_04) \
-				[Arkusz](inf03/inf03_2023_01_04/arkusz) 
+				[Arkusz](inf03/inf03_2023_01_04/inf_03_2023_01_04_SG_zo.pdf) 
+				[Zasady oceny](inf03/inf03_2023_01_04/inf_03_2023_01_04_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2023_01_04/zad4.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_04/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_04/rozwiazanie.zip)
   - 05 (**PHP**) - Sierpniowy kalendarz [INF.03-05-23.01-SG](inf03/inf03_2023_01_05) \
-				[Arkusz](inf03/inf03_2023_01_05/arkusz) 
+				[Arkusz](inf03/inf03_2023_01_05/inf_03_2023_01_05_SG_zo.pdf) 
+				[Zasady oceny](inf03/inf03_2023_01_05/inf_03_2023_01_05_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2023_01_05/zad5.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_05/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_05/rozwiazanie.zip)
