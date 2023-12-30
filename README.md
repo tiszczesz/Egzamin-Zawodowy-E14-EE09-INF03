@@ -482,31 +482,31 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 - Styczeń
   - 01 (**JS**) - Malarz [INF.03-01-23.01-SG](inf03/inf03_2023_01_01) \
 				[Arkusz](inf03/inf03_2023_01_01/inf_03_2023_01_01_SG.pdf) 
-				[Zasady oceny](inf03/inf03_2023_01_01/inf_03_2023_01_01_SG_zo.xlsx) 
+				[Zasady oceny](inf03/inf03_2023_01_01/INF_03_2023_01_01_SG_zo.xlsx)
 				[Baza](inf03/inf03_2023_01_01/zad1.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_01/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_01/rozwiazanie.zip)
   - 02 (**PHP**) - Wynajem pokoi [INF.03-02-23.01-SG](inf03/inf03_2023_01_02) \
 				[Arkusz](inf03/inf03_2023_01_02/inf_03_2023_01_02_SG.pdf) 
-				[Zasady oceny](inf03/inf03_2023_01_02/inf_03_2023_01_02_SG_zo.xlsx) 
+				[Zasady oceny](inf03/inf03_2023_01_02/INF_03_2023_01_02_SG_zo.xlsx)
 				[Baza](inf03/inf03_2023_01_02/zad2.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_02/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_02/rozwiazanie.zip)
   - 03 (**PHP**) - Kwiaty [INF.03-03-23.01-SG](inf03/inf03_2023_01_03) \
 				[Arkusz](inf03/inf03_2023_01_03/inf_03_2023_01_03_SG.pdf) 
-				[Zasady oceny](inf03/inf03_2023_01_03/inf_03_2023_01_03_SG_zo.xlsx) 
+				[Zasady oceny](inf03/inf03_2023_01_03/INF_03_2023_01_03_SG_zo.xlsx)
 				[Baza](inf03/inf03_2023_01_03/zad3.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_03/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_03/rozwiazanie.zip)
   - 04 (**PHP**) - Wycieczki po Europie [INF.03-04-23.01-SG](inf03/inf03_2023_01_04) \
-				[Arkusz](inf03/inf03_2023_01_04/inf_03_2023_01_04_SG_zo.pdf) 
-				[Zasady oceny](inf03/inf03_2023_01_04/inf_03_2023_01_04_SG_zo.xlsx) 
+				[Arkusz](inf03/inf03_2023_01_04/inf_03_2023_01_04_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_01_04/INF_03_2023_01_04_SG_zo.xlsx)
 				[Baza](inf03/inf03_2023_01_04/zad4.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_04/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_04/rozwiazanie.zip)
   - 05 (**PHP**) - Sierpniowy kalendarz [INF.03-05-23.01-SG](inf03/inf03_2023_01_05) \
-				[Arkusz](inf03/inf03_2023_01_05/inf_03_2023_01_05_SG_zo.pdf) 
-				[Zasady oceny](inf03/inf03_2023_01_05/inf_03_2023_01_05_SG_zo.xlsx) 
+				[Arkusz](inf03/inf03_2023_01_05/inf_03_2023_01_05_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_01_05/INF_03_2023_01_05_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2023_01_05/zad5.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_05/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_05/rozwiazanie.zip)
