@@ -57,7 +57,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Rozwiązanie](inf03/inf03_2022_06_03/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2022_06_03/rozwiazanie.zip)
 ### 2023
-- Styczeń - podobne do sesji e14_2020_06 oraz ee09_2020_06
+- Styczeń - podobne do sesji e14_2020_06 (1-3) + ee09_2020_06 (4-5)
   - 01 (**JS**) - Malarz [INF.03-01-23.01-SG](inf03/inf03_2023_01_01) \
 				[Arkusz](inf03/inf03_2023_01_01/inf_03_2023_01_01_SG.pdf) 
 				[Zasady oceny](inf03/inf03_2023_01_01/INF_03_2023_01_01_SG_zo.xlsx)
