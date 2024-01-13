@@ -50,7 +50,7 @@
 			$kw2 = "SELECT cena FROM towary WHERE nazwa = '$produkt';";
 			$res2 = mysqli_query($con, $kw2);
 			$tab = mysqli_fetch_row($res2);
-			$cena = ROUND($tab[0] * $liczba, 2);
+			$cena = ROUND($tab[0] * $liczba, 1);
 			echo "$cena";
 		}
 		mysqli_close($con);
