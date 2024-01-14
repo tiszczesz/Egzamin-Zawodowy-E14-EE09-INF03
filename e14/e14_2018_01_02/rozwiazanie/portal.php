@@ -14,7 +14,7 @@
 		<?php
 		$con = mysqli_connect('localhost', 'root', '', 'ogloszenia');
 		$kw1 = "SELECT id, imie, nazwisko, email FROM uzytkownik WHERE id < 4";
-		$kw2 = "SELECT tytul FROM ogloszenie";
+		$kw2 = "SELECT tytul FROM ogloszenie LIMIT 1";
 		$res = mysqli_query($con, $kw1);
 		$res2 = mysqli_query($con, $kw2);
 		while($tab = mysqli_fetch_row($res)) {
