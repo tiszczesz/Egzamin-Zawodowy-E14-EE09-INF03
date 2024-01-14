@@ -38,7 +38,7 @@
 			</label>
 			<label>
 				liczba sztuk:
-				<input type="number" name="liczba" />
+				<input type="number" name="liczba" value="1"/>
 			</label>
 			<br/>
 			<button type="submit">OBLICZ</button>
