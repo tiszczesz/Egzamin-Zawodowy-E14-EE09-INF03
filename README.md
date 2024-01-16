@@ -610,7 +610,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](inf03/inf03_2024_01_05/materialy5.zip) \
 				[Rozwiązanie](inf03/inf03_2024_01_05/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_01_05/rozwiazanie.zip)
-  - 05 (**X**) - X [INF.03-06-24.01-SG](inf03/inf03_2024_01_06) \
+  - 06 (**PHP**) - Poznaj Europę [INF.03-06-24.01-SG](inf03/inf03_2024_01_06) \
 				[Arkusz - zdjecia](inf03/inf03_2024_01_06/arkusz) 
 				[Zasady oceny - BRAK](inf03/inf03_2024_01_06)
 				[Baza](inf03/inf03_2024_01_06/materialy6.zip) \
