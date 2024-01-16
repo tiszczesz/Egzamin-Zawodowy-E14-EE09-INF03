@@ -584,3 +584,35 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](inf03/inf03_2023_06_12/materialy12.7z) \
 				[Rozwiązanie](inf03/inf03_2023_06_12/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_06_12/rozwiazanie.zip)
+### 2024
+- Styczeń - podobne do sesji e14_2019_06 oraz ee09_2020_06
+  - 01 (**JS**) - Firma IT [INF.03-01-24.01-SG](inf03/inf03_2024_01_01) \
+				[Arkusz - zdjecia](inf03/inf03_2024_01_01/arkusz) 
+				[Zasady oceny - BRAK](inf03/inf03_2024_01_01)
+				[Baza](inf03/inf03_2024_01_01/materialy1.zip) \
+				[Rozwiązanie](inf03/inf03_2024_01_01/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_01_01/rozwiazanie.zip)
+  - 02 (**JS**) - Komputery [INF.03-02-24.01-SG](inf03/inf03_2024_01_02) \
+				[Arkusz - zdjecia](inf03/inf03_2024_01_02/arkusz) 
+				[Zasady oceny - BRAK](inf03/inf03_2024_01_02)
+				[Baza](inf03/inf03_2024_01_02/materialy2.zip) \
+				[Rozwiązanie](inf03/inf03_2024_01_02/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_01_02/rozwiazanie.zip)
+  - 04 (**PHP**) - Terminarz [INF.03-04-24.01-SG](inf03/inf03_2024_01_04) \
+				[Arkusz - zdjecia](inf03/inf03_2024_01_04/arkusz) 
+				[Zasady oceny - BRAK](inf03/inf03_2024_01_04)
+				[Baza](inf03/inf03_2024_01_04/materialy4.zip) \
+				[Rozwiązanie](inf03/inf03_2024_01_04/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_01_04/rozwiazanie.zip)
+  - 05 (**X**) - X [INF.03-05-24.01-SG](inf03/inf03_2024_01_05) \
+				[Arkusz - zdjecia](inf03/inf03_2024_01_05/arkusz) 
+				[Zasady oceny - BRAK](inf03/inf03_2024_01_05)
+				[Baza](inf03/inf03_2024_01_05/materialy5.zip) \
+				[Rozwiązanie](inf03/inf03_2024_01_05/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_01_05/rozwiazanie.zip)
+  - 05 (**X**) - X [INF.03-06-24.01-SG](inf03/inf03_2024_01_06) \
+				[Arkusz - zdjecia](inf03/inf03_2024_01_06/arkusz) 
+				[Zasady oceny - BRAK](inf03/inf03_2024_01_06)
+				[Baza](inf03/inf03_2024_01_06/materialy6.zip) \
+				[Rozwiązanie](inf03/inf03_2024_01_06/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_01_06/rozwiazanie.zip)
