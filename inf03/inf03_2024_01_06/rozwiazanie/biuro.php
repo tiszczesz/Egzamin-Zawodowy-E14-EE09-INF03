@@ -51,7 +51,7 @@
             $q = "SELECT cel, dataWyjazdu FROM wycieczki WHERE dostepna = 0;";
             $res = mysqli_query($con, $q);
             while ($row = mysqli_fetch_array($res)) {
-                echo "<li>Dnia $row[1] pojechaliśmy do $row[0]";
+                echo "<li>Dnia $row[1] pojechaliśmy do $row[0]</li>";
             }
             mysqli_close($con);
             ?>
