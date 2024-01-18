@@ -14,18 +14,20 @@
     <main>
         <section id="left">
             <h2>Promocje</h2>
-            <table>
-                <tr>
-                    <td>Warszawa</td>
-                    <td>Wenecja</td>
-                    <td>Paryż</td>
-                </tr>
-                <tr>
-                    <td>od 600 zł</td>
-                    <td>od 1200 zł</td>
-                    <td>od 1200 zł</td>
-                </tr>
-            </table>
+				<table>
+					<tr>
+						<td>Warszawa</td>
+						<td>od 600 zł</td>
+					</tr>
+					<tr>
+						<td>Wenecja</td>
+						<td>od 1200 zł</td>
+					</tr>
+					<tr>
+						<td>Paryż</td>
+						<td>od 1200 zł</td>
+					</tr>
+				</table>
         </section>
         <section id="mid">
             <h2>W tym roku jedziemy do...</h2>
