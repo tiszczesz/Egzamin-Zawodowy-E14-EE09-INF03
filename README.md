@@ -11,7 +11,7 @@ Wybrane szczególne arkusze:
 - **JS** - Formatowanie dokumentu HTML [E.14-02-19.01](e14/e14_2019_01_02)
 - **JS** - Pomocnik matematyczny [EE.09-04-19.06](ee09/ee09_2019_06_04)
 - **JS** - Ciągi liczbowe [EE.09-05-19.06](ee09/ee09_2019_06_05)
-- **Cookies** - Przyloty samolotów [EE.09-05-21.01-SG](ee09/ee09_2021_01_05)
+- **Cookies PHP** - Przyloty samolotów [EE.09-05-21.01-SG](ee09/ee09_2021_01_05)
 - **Wyświetlanie wielu bloków PHP** - Warzywniak [EE.09-02-21.06-SG](ee09/ee09_2021_06_02)
 - **Wyświetlanie wielu bloków PHP** - Wypożyczalnia filmów [EE.09-03-21.06-SG](ee09/ee09_2021_06_03)
 - **Panel logowania PHP** - Portal społecznościowy [EE.09-05-22.01-SG](ee09/ee09_2022_01_05)
@@ -436,13 +436,6 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2023_01_04/zad4.zip) \
 				[Rozwiązanie](ee09/ee09_2023_01_04/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2023_01_04/rozwiazanie.zip)
-- Czerwiec
-  - 01 (**PHP**) - Forum wielbicieli psów [EE.09-01-23.06-SG](ee09/ee09_2022_01_04) \
-				[Arkusz](ee09/ee09_2022_01_04/ee_09_2022_01_04_SG.pdf) 
-				[Zasady oceny](ee09/ee09_2022_01_04/ee_09_2022_01_04_SG_zo.xlsx) 
-				[Baza](ee09/ee09_2022_01_04/pliki4.zip) \
-				[Rozwiązanie](ee09/ee09_2022_01_04/rozwiazanie)
-				[RozwiązanieZIP](ee09/ee09_2022_01_04/rozwiazanie.zip)
 ## Formuła 2019 - INF.03
 ### 2021
 - Czerwiec
