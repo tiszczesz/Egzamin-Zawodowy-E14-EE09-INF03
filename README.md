@@ -1,13 +1,14 @@
-## Technik informatyk - egzamin zawodowy E.14/EE.09/INF.03
-Arkusze z plikami wraz z rozwiazaniami napisanymi przeze mnie.
+## Egzamin zawodowy E.14/EE.09/INF.03
+Arkusze z plikami wraz z rozwiązaniami napisanymi przeze mnie.
 
-Discord: **Chriskyy**
+### Kontakt
+- **Discord:** Chriskyy
 
-Donate: 
+### Donate
 - [Revolut - @chriskyy](https://revolut.me/chriskyy)
 - [Buycoffee.to - chriskyy](https://buycoffee.to/chriskyy)
 
-Wybrane szczególne arkusze:
+### Wybrane szczególne arkusze:
 - **JS** - Formatowanie dokumentu HTML [E.14-02-19.01](e14/e14_2019_01_02)
 - **JS** - Pomocnik matematyczny [EE.09-04-19.06](ee09/ee09_2019_06_04)
 - **JS** - Ciągi liczbowe [EE.09-05-19.06](ee09/ee09_2019_06_05)
@@ -15,11 +16,13 @@ Wybrane szczególne arkusze:
 - **Wyświetlanie wielu bloków PHP** - Warzywniak [EE.09-02-21.06-SG](ee09/ee09_2021_06_02)
 - **Wyświetlanie wielu bloków PHP** - Wypożyczalnia filmów [EE.09-03-21.06-SG](ee09/ee09_2021_06_03)
 - **Panel logowania PHP** - Portal społecznościowy [EE.09-05-22.01-SG](ee09/ee09_2022_01_05)
-- **JS** - Konfugurator stylu [EE.09-06-22.01-SG](ee09/ee09_2022_01_06)
+- **JS** - Konfigurator stylu [EE.09-06-22.01-SG](ee09/ee09_2022_01_06)
 - **Trudniejszy JS** - Zamówienia hurtowe [EE.09-04-22.06-SG](ee09/ee09_2022_06_04)
-- **Przewijanie zdjęc JS** - Galeria [EE.09-02-23.01-SG](ee09/ee09_2023_01_02)
+- **Przewijanie zdjęć JS** - Galeria [EE.09-02-23.01-SG](ee09/ee09_2023_01_02)
 
-Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
+### Wszystkie zadania JavaScript z arkuszy z lat 2018-2022:
+- [Zadania JS](zadania_js)
+
 ## Formuła 2012 - E.14
 ### 2018
 - Styczeń
@@ -535,38 +538,38 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 - Styczeń - podobne do sesji e14_2019_06 oraz ee09_2020_06 \
 	(12 arkuszy - 6 różnych, kolejność - 121-345-462-536)
   - 01 (**JS**) - Firma IT [INF.03-01-24.01-SG](inf03/inf03_2024_01_01) \
-				[Arkusz - zdjecia](inf03/inf03_2024_01_01/arkusz) 
-				[Zasady oceny - BRAK](inf03/inf03_2024_01_01)
+				[Arkusz](inf03/inf03_2024_01_01/inf_03_2024_01_01_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_01_01/INF_03_2024_01_01_SG_zo.pdf)
 				[Baza](inf03/inf03_2024_01_01/materialy1.zip) \
 				[Rozwiązanie](inf03/inf03_2024_01_01/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_01_01/rozwiazanie.zip)
   - 02 (**JS**) - Komputery [INF.03-02-24.01-SG](inf03/inf03_2024_01_02) \
-				[Arkusz - zdjecia](inf03/inf03_2024_01_02/arkusz) 
-				[Zasady oceny - BRAK](inf03/inf03_2024_01_02)
+				[Arkusz](inf03/inf03_2024_01_02/inf_03_2024_01_02_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_01_02/INF_03_2024_01_02_SG_zo.pdf)
 				[Baza](inf03/inf03_2024_01_02/materialy2.zip) \
 				[Rozwiązanie](inf03/inf03_2024_01_02/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_01_02/rozwiazanie.zip)
   - 04 (**PHP**) - Terminarz [INF.03-04-24.01-SG](inf03/inf03_2024_01_04) \
-				[Arkusz - zdjecia](inf03/inf03_2024_01_04/arkusz) 
-				[Zasady oceny - BRAK](inf03/inf03_2024_01_04)
+				[Arkusz](inf03/inf03_2024_01_04/inf_03_2024_01_04_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_01_04/INF_03_2024_01_04_SG_zo.pdf)
 				[Baza](inf03/inf03_2024_01_04/materialy4.zip) \
 				[Rozwiązanie](inf03/inf03_2024_01_04/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_01_04/rozwiazanie.zip)
   - 05 (**JS**) - Salon kosmetyczny [INF.03-05-24.01-SG](inf03/inf03_2024_01_05) \
-				[Arkusz - zdjecia](inf03/inf03_2024_01_05/arkusz) 
-				[Zasady oceny - BRAK](inf03/inf03_2024_01_05)
+				[Arkusz](inf03/inf03_2024_01_05/inf_03_2024_01_05_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_01_05/INF_03_2024_01_05_SG_zo.pdf)
 				[Baza](inf03/inf03_2024_01_05/materialy5.zip) \
 				[Rozwiązanie](inf03/inf03_2024_01_05/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_01_05/rozwiazanie.zip)
   - 06 (**PHP**) - Poznaj Europę [INF.03-06-24.01-SG](inf03/inf03_2024_01_06) \
-				[Arkusz - zdjecia](inf03/inf03_2024_01_06/arkusz) 
-				[Zasady oceny - BRAK](inf03/inf03_2024_01_06)
+				[Arkusz](inf03/inf03_2024_01_06/inf_03_2024_01_06_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_01_06/INF_03_2024_01_06_SG_zo.pdf)
 				[Baza](inf03/inf03_2024_01_06/materialy6.zip) \
 				[Rozwiązanie](inf03/inf03_2024_01_06/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_01_06/rozwiazanie.zip)
   - 08 (**JS**) - Salon fryzjerski [INF.03-08-24.01-SG](inf03/inf03_2024_01_08) \
-				[Arkusz - zdjecia](inf03/inf03_2024_01_08/arkusz) 
-				[Zasady oceny - BRAK](inf03/inf03_2024_01_08)
+				[Arkusz](inf03/inf03_2024_01_08/inf_03_2024_01_08_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_01_08/INF_03_2024_01_08_SG_zo.pdf)
 				[Baza](inf03/inf03_2024_01_08/materialy8.zip) \
 				[Rozwiązanie](inf03/inf03_2024_01_08/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_01_08/rozwiazanie.zip)
