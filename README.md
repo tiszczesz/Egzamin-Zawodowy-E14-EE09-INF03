@@ -573,3 +573,87 @@ Arkusze z plikami wraz z rozwiązaniami napisanymi przeze mnie.
 				[Baza](inf03/inf03_2024_01_08/materialy8.zip) \
 				[Rozwiązanie](inf03/inf03_2024_01_08/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_01_08/rozwiazanie.zip)
+- Czerwiec
+  - 01 (**PHP**) - Motocykle [INF.03-01-24.06-SG](inf03/inf03_2024_06_01) \
+				[Arkusz](inf03/inf03_2024_06_01/inf_03_2024_06_01_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_01/INF_03_2024_06_01_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_01/pliki1.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_01/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_01/rozwiazanie.zip)
+
+  - 02 (**JS**) - Chat [INF.03-02-24.06-SG](inf03/inf03_2024_06_02) \
+				[Arkusz](inf03/inf03_2024_06_02/inf_03_2024_06_02_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_02/INF_03_2024_06_02_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_02/pliki2.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_02/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_02/rozwiazanie.zip)
+
+  - 03 (**PHP**) - Poziomy rzek [INF.03-03-24.06-SG](inf03/inf03_2024_06_03) \
+				[Arkusz](inf03/inf03_2024_06_03/inf_03_2024_06_03_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_03/INF_03_2024_06_03_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_03/pliki3.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_03/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_03/rozwiazanie.zip)
+
+  - 04 (**PHP**) - Galeria [INF.03-04-24.06-SG](inf03/inf03_2024_06_04) \
+				[Arkusz](inf03/inf03_2024_06_04/inf_03_2024_06_04_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_04/INF_03_2024_06_04_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_04/pliki4.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_04/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_04/rozwiazanie.zip)
+
+  - 05 (**PHP**) - Komis aut [INF.03-05-24.06-SG](inf03/inf03_2024_06_05) \
+				[Arkusz](inf03/inf03_2024_06_05/inf_03_2024_06_05_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_05/INF_03_2024_06_05_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_05/pliki5.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_05/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_05/rozwiazanie.zip)
+
+  - 06 (**JS**) - Rejestracja [INF.03-06-24.06-SG](inf03/inf03_2024_06_06) \
+				[Arkusz](inf03/inf03_2024_06_06/inf_03_2024_06_06_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_06/INF_03_2024_06_06_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_06/pliki6.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_06/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_06/rozwiazanie.zip)
+
+  - 07 (**PHP**) - Ważenie pojazdów [INF.03-07-24.06-SG](inf03/inf03_2024_06_07) \
+				[Arkusz](inf03/inf03_2024_06_07/inf_03_2024_06_07_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_07/INF_03_2024_06_07_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_07/pliki7.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_07/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_07/rozwiazanie.zip)
+
+  - 08 (**JS**) - Sklep - rejestracja [INF.03-08-24.06-SG](inf03/inf03_2024_06_08) \
+				[Arkusz](inf03/inf03_2024_06_08/inf_03_2024_06_08_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_08/INF_03_2024_06_08_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_08/pliki8.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_08/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_08/rozwiazanie.zip)
+
+  - 09 (**JS**) - Biuro turystyczne [INF.03-09-24.06-SG](inf03/inf03_2024_06_09) \
+				[Arkusz](inf03/inf03_2024_06_09/inf_03_2024_06_09_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_09/INF_03_2024_06_09_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_09/pliki9.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_09/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_09/rozwiazanie.zip)
+
+  - 10 (**JS**) - Nasz zespół [INF.03-10-24.06-SG](inf03/inf03_2024_06_10) \
+				[Arkusz](inf03/inf03_2024_06_10/inf_03_2024_06_10_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_10/INF_03_2024_06_10_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_10/pliki10.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_10/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_10/rozwiazanie.zip)
+
+  - 11 (**PHP**) - Hodowla świnek morskich [INF.03-11-24.06-SG](inf03/inf03_2024_06_11) \
+				[Arkusz](inf03/inf03_2024_06_11/inf_03_2024_06_11_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_11/INF_03_2024_06_11_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_11/pliki11.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_11/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_11/rozwiazanie.zip)
+
+  - 12 (**JS**) - Efekty obrazu [INF.03-12-24.06-SG](inf03/inf03_2024_06_12) \
+				[Arkusz](inf03/inf03_2024_06_12/inf_03_2024_06_12_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2024_06_12/INF_03_2024_06_12_SG_zo.pdf)
+				[Baza](inf03/inf03_2024_06_12/pliki12.zip) \
+				[Rozwiązanie](inf03/inf03_2024_06_12/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2024_06_12/rozwiazanie.zip)
