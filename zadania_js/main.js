@@ -147,7 +147,7 @@ function przeslijForm() {
 function przeslijForm2() {
     const imieForm = document.getElementById('imieForm2').value
     const nazwiskoForm = document.getElementById('nazwiskoForm2').value
-    const emailForm = document.getElementById('emailForm2').value
+    const emailForm = document.getElementById('emailForm2').value.toLowerCase()
     const uslugaForm = document.getElementById('uslugaForm2').value
     const wynik = document.getElementById('wynik_8')
     wynik.innerHTML = imieForm + " " + nazwiskoForm + "<br/>" + emailForm + "<br/> Usługa: " + uslugaForm
