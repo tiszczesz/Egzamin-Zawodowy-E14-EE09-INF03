@@ -66,11 +66,11 @@ button {
 
 @keyframes przesuwanie {
     from {
-        margin-left: 50px;
+        padding-left: 50px;
     }
 
     to {
-        margin-left: 0;
+        padding-left: 0;
     }
 }
 
