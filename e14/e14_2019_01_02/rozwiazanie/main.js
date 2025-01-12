@@ -1,4 +1,4 @@
-function f(color) {
+function zmienStyl(color) {
   let size = document.getElementById("procent").value;
   let styl = document.getElementById("styl").value;
   let wynik = document.getElementById("wynik");

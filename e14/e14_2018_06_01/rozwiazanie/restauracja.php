@@ -1,12 +1,16 @@
 <?php
-$con = mysqli_connect('localhost', 'root', '', 'baza');
-if(!empty($_POST['data']) && !empty($_POST['osob']) && !empty($_POST['telefon'])) {
+$connect = mysqli_connect('localhost', 'root', '', 'baza');
+if (isset($_POST["submit"])) {
 	$data = $_POST['data'];
-	$osob = $_POST['osob'];
+	$liczba_osob = $_POST['osob'];
 	$telefon = $_POST['telefon'];
-	$kw = "INSERT INTO rezerwacje(id, data_rez, liczba_osob, telefon) VALUES (NULL, '$data', $osob, '$telefon');";
-	mysqli_query($con, $kw);
-	echo "Dodano rezerwacje do bazy";
+	if (empty($data) || empty($liczba_osob) || empty($telefon)) {
+		echo "Wykryto puste pola";
+	} else {
+		$query = "INSERT INTO rezerwacje(id, data_rez, liczba_osob, telefon) VALUES (NULL, '$data', $liczba_osob, '$telefon')";
+		mysqli_query($connect, $query);
+		echo "Dodano rezerwacje do bazy";
+	}
 }
-mysqli_close($con);
+mysqli_close($connect);
 ?>
