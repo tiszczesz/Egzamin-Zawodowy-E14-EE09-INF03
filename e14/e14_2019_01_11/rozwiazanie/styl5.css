@@ -1,54 +1,69 @@
 body {
-	box-sizing: border-box;
 	margin: 0;
 	font-family: Verdana;
+	display: flex;
+	flex-direction: column;
 }
-#baner {
+
+header {
 	background: #9692B1;
 	color: white;
 	text-align: center;
 	height: 80px;
 }
-#lewy {
+
+#kontener {
+	display: flex;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	width: 80%;
+}
+
+aside {
 	background: #9692B1;
 	color: white;
 	width: 20%;
 	height: 750px;
-	float: left;
 }
-#prawy1 {
+
+#gorny {
 	background: #FFF4CC;
-	width: 80%;
 	height: 300px;
 	text-align: center;
-	float: left;
 }
-#prawy2 {
+
+#dolny {
 	background: #DBCC93;
-	width: 80%;
 	height: 450px;
 	text-align: center;
-	float: left;
 }
-#stopka {
+
+footer {
 	background: #9692B1;
 	color: white;
 	text-align: right;
-	clear: both;
 }
+
 a {
 	color: white;
 }
-#prawy1 img {
+
+#gorny img {
 	width: 15%;
 	margin: 20px;
 }
-#prawy2 img {
+
+#dolny img {
 	border: 4px solid #9692B1;
 }
-#prawy2 img:hover {
+
+#gorny img:hover {
 	border-color: gray;
 }
+
 h1 {
 	margin: 0;
 }

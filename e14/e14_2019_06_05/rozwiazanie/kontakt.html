@@ -1,27 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="pl">
+
 <head>
 	<meta charset="UTF-8" />
 	<title>Usługi informatyczne</title>
 	<link rel="stylesheet" href="styl.css" />
 	<link rel="icon" href="logo.png" />
-	<script src="main.js"></script>
 </head>
+
 <body>
-	<div id="kontener">
-		<div id="logo">
-			<img src="logo.png" alt="logo firmy" />
-		</div>
-		<div id="menu">
-			<a href="index.html">O nas</a>
-			<a href="uslugi.html">Usługi</a>
-			<a href="kontakt.html">Kontakt</a>
-		</div>
-		<div id="baner">
+	<section id="kontener">
+		<section id="blok-gorny">
+			<section id="logo">
+				<img src="logo.png" alt="logo firmy" />
+			</section>
+			<nav>
+				<a href="index.html">O nas</a>
+				<a href="uslugi.html">Usługi</a>
+				<a href="kontakt.html">Kontakt</a>
+			</nav>
+		</section>
+		<header>
 			<img src="animacja.gif" />
-		</div>
-		<div id="glowny">
-			<hr/>
+		</header>
+		<main>
+			<hr />
 			<h2>Kontakt</h2>
 			<form>
 				<table>
@@ -47,16 +50,19 @@
 					</tr>
 					<tr>
 						<td></td>
-						<td><button type="reset" />Resetuj</button><button type="button" onclick="formularz();">Prześlij</button></td>
+						<td><button type="reset">Resetuj</button><button type="button"
+								onclick="przeslij();">Prześlij</button></td>
 					</tr>
 				</table>
 			</form>
 			<p id="wynik"></p>
-			<hr/>
-		</div>
-		<div id="stopka">
-			<p>Autor strony: <b>PESEL</b></p>
-		</div>
-	</div>
+			<hr />
+		</main>
+		<footer>
+			<p>Autor strony: <b>Chr1skyy</b></p>
+		</footer>
+	</section>
+	<script src="main.js"></script>
 </body>
+
 </html>

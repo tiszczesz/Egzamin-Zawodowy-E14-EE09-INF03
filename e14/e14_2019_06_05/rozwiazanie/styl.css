@@ -1,48 +1,62 @@
 body {
-	box-sizing: border-box;
 	background: #EEEEEE;
 }
+
 #kontener {
 	width: 1000px;
 	margin: auto;
 	text-align: center;
+	display: flex;
+	flex-direction: column;
 }
-#logo, #menu, #stopka {
+
+#blok-gorny {
+	display: flex;
+}
+
+#logo,
+nav,
+footer {
 	background: #C0C0C0;
 	height: 100px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+
 #logo {
 	width: 400px;
-	float: left;
 }
-#menu {
+
+nav {
 	width: 600px;
-	float: left;
 }
-#baner {
+
+header {
 	background: #DDDDDD;
 	height: 200px;
-	clear: both;
 }
-#glowny {
+
+main {
 	margin: 50px;
 }
-#stopka {
+
+footer {
 	text-align: right;
 }
-#menu a {
+
+nav a {
 	color: #555555;
 	margin: 50px;
 	font-size: 200%;
 	text-decoration: none;
 }
+
 hr {
 	background: #C0C0C0;
 	width: 70%;
 	height: 2px;
 }
+
 table {
 	text-align: left;
 }

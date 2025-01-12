@@ -1,4 +1,4 @@
-function formularz() {
+function przeslij() {
 	let imie = document.getElementById("imie").value;
 	let nazwisko = document.getElementById("nazwisko").value;
 	let email = document.getElementById("email").value.toLowerCase();
