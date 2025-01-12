@@ -6,7 +6,7 @@ Arkusze z plikami wraz z rozwiązaniami napisanymi przeze mnie.
 
 ### Donate
 - [Revolut - @chriskyy](https://revolut.me/chriskyy)
-- [Buycoffee.to - chriskyy](https://buycoffee.to/chriskyy)
+- [Tipply.pl - @chriskyy](https://tipply.pl/@chriskyy)
 
 ### Wybrane szczególne arkusze:
 - **JS** - Formatowanie dokumentu HTML [E.14-02-19.01](e14/e14_2019_01_02)
@@ -25,27 +25,6 @@ Arkusze z plikami wraz z rozwiązaniami napisanymi przeze mnie.
 
 ## Formuła 2012 - E.14
 ### 2018
-- Styczeń
-  - 01 (**PHP**) - Portal ogłoszeniowy [E.14-01-18.01](e14/e14_2018_01_01) \
-				[Arkusz](e14/e14_2018_01_01/e14_2018_01_01.pdf) 
-				[Baza](e14/e14_2018_01_01/materialy.zip) \
-				[Rozwiązanie](e14/e14_2018_01_01/rozwiazanie)
-				[RozwiązanieZIP](e14/e14_2018_01_01/rozwiazanie.zip)
-  - 02 (**PHP**) - Portal ogłoszeniowy [E.14-02-18.01](e14/e14_2018_01_02) \
-				[Arkusz](e14/e14_2018_01_02/e14_2018_01_02.pdf) 
-				[Baza](e14/e14_2018_01_02/materialy.zip) \
-				[Rozwiązanie](e14/e14_2018_01_02/rozwiazanie)
-				[RozwiązanieZIP](e14/e14_2018_01_02/rozwiazanie.zip)
-  - 03 (**PHP**) - Portal ogłoszeniowy [E.14-03-18.01](e14/e14_2018_01_03) \
-				[Arkusz](e14/e14_2018_01_03/e14_2018_01_03.pdf) 
-				[Baza](e14/e14_2018_01_03/materialy.zip) \
-				[Rozwiązanie](e14/e14_2018_01_03/rozwiazanie)
-				[RozwiązanieZIP](e14/e14_2018_01_03/rozwiazanie.zip)
-  - 04 (**PHP**) - Portal ogłoszeniowy [E.14-04-18.01](e14/e14_2018_01_04) \
-				[Arkusz](e14/e14_2018_01_04/e14_2018_01_04.pdf) 
-				[Baza](e14/e14_2018_01_04/materialy.zip) \
-				[Rozwiązanie](e14/e14_2018_01_04/rozwiazanie)
-				[RozwiązanieZIP](e14/e14_2018_01_04/rozwiazanie.zip)
 - Czerwiec
   - 01 (**PHP**) - Restauracja Wszystkie Smaki [E.14-01-18.06](e14/e14_2018_06_01) \
 				[Arkusz](e14/e14_2018_06_01/e14_2018_06_01.pdf) 
