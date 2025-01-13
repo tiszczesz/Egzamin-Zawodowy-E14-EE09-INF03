@@ -1,44 +1,55 @@
 body {
-	box-sizing: border-box;
 	margin: 0;
 	font-family: Helvetica;
+	display: flex;
+	flex-direction: column;
 }
-#gorny1,
-#gorny2 {
+
+#kontener {
+	display: flex;
+}
+
+#kontener section {
 	background: rgb(146, 184, 112);
 	text-align: center;
 	width: 50%;
 	height: 170px;
-	float: left;
 }
-#baner,
-#stopka {
+
+header,
+footer {
 	background: rgb(100, 61, 49);
 	color: white;
 	text-align: center;
 	height: 80px;
 	padding: 5px;
-	clear: both;
 }
-#lewy,
-#prawy {
+
+main {
+	display: flex;
+}
+
+main section {
 	background: rgb(146, 184, 112);
 	width: 50%;
 	height: 450px;
-	float: left;
 }
-#gorny1 a {
+
+#kontener section:nth-child(1) a {
 	background: url("cukierki1.jpg");
 	padding-right: 30px;
 	padding-bottom: 120px;
 	font-size: 150%;
 	text-decoration: none;
 }
-table, td {
+
+table,
+td {
 	border: 2px dashed green;
 	margin: 30px;
 	padding: 20px;
 }
+
 h1 {
 	letter-spacing: 20px;
 	font-size: 250%;

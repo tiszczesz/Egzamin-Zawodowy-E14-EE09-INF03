@@ -1,51 +1,64 @@
 body {
 	margin: 0;
 	font-family: Verdana;
+	display: flex;
+	flex-direction: column;
 }
-#menu {
+
+#kontener {
+	display: flex;
+}
+
+nav {
 	background: SandyBrown;
 	height: 120px;
 	width: 60%;
-	float: left;
 }
-#logo {
+
+header {
 	background: Sienna;
 	color: white;
 	text-align: center;
 	height: 120px;
 	width: 40%;
-	float: left;
 }
+
+main {
+	display: flex;
+}
+
 #lewy {
 	background: Sienna;
 	color: white;
 	height: 700px;
 	width: 60%;
-	float: left;
 }
+
 #prawy {
 	background: SandyBrown;
 	height: 700px;
 	width: 40%;
-	float: left;
 }
-#stopka {
+
+footer {
 	background: #4D1900;
 	color: white;
 	text-align: right;
-	clear: both;
 }
-#menu {
+
+nav {
 	display: flex;
 	align-items: center;
 }
-#menu a {
+
+nav a {
 	background: green;
 	color: yellow;
 	padding: 20px 50px 20px 50px;
 	margin-right: 5px;
 }
-#menu a:hover {
+
+nav a:hover {
 	background: yellow;
 	color: green;
 }

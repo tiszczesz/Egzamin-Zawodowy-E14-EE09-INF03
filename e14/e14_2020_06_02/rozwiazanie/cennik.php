@@ -30,17 +30,17 @@
             <h1>Cennik</h1>
             <table>
                 <?php
-                $con = mysqli_connect('localhost', 'root', '', 'wynajem');
-                $q = "SELECT * FROM pokoje";
-                $res = mysqli_query($con, $q);
-                while ($row = mysqli_fetch_array($res)) {
+                $connect = mysqli_connect('localhost', 'root', '', 'wynajem');
+                $query = "SELECT * FROM pokoje";
+                $result = mysqli_query($connect, $query);
+                while ($row = mysqli_fetch_array($result)) {
                     echo "<tr>
-                            <td>$row[0]</td>
-                            <td>$row[1]</td>
-                            <td>$row[2]</td>
+                            <td>{$row['id']}</td>
+                            <td>{$row['nazwa']}</td>
+                            <td>{$row['cena']}</td>
                         </tr>";
                 }
-                mysqli_close($con);
+                mysqli_close($connect);
                 ?>
             </table>
         </section>
@@ -48,7 +48,7 @@
         </section>
     </main>
     <footer>
-        <p>Stronę opracował: Chriskyy#0181</p>
+        <p>Stronę opracował: Chr1skyy</p>
     </footer>
 </body>
 

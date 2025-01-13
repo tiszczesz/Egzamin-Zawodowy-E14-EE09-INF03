@@ -3,6 +3,8 @@ body {
 	font-family: "Times New Roman";
 	text-align: center;
 	font-style: italic;
+	display: flex;
+	flex-direction: column;
 }
 
 header {
@@ -15,14 +17,14 @@ main {
 	display: flex;
 }
 
-section#panelLewy {
+#panelLewy {
 	background-color: LightPink;
 	height: 500px;
 	width: 20%;
 	font-size: 20px;
 }
 
-section#panelPrawy {
+#panelPrawy {
 	background-color: black;
 	height: 500px;
 	width: 80%;
@@ -35,7 +37,7 @@ footer {
 	height: 60px;
 }
 
-section#panelLewy img {
+#panelLewy img {
 	width: 180px;
 	height: 180px;
 }

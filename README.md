@@ -419,14 +419,6 @@ Arkusze z plikami wraz z rozwiązaniami napisanymi przeze mnie.
 				[Rozwiązanie](ee09/ee09_2023_01_04/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2023_01_04/rozwiazanie.zip)
 ## Formuła 2019 - INF.03
-### 2021
-- Czerwiec
-  - 01 (**PHP**) - Restauracja Wszystkie Smaki [INF.03-01-21.06-SG](inf03/inf03_2021_06_01) \
-				[Arkusz](inf03/inf03_2021_06_01/inf_03_2021_06_01_SG.pdf) 
-				[Zasady oceny](inf03/inf03_2021_06_01/inf_03_2021_06_01_SG_zo.pdf) 
-				[Baza](inf03/inf03_2021_06_01/zad1.zip) \
-				[Rozwiązanie](inf03/inf03_2021_06_01/rozwiazanie)
-				[RozwiązanieZIP](inf03/inf03_2021_06_01/rozwiazanie.zip)
 ### 2022
 - Styczeń
   - 01 (**PHP**) - Restauracja Wszystkie Smaki [INF.03-01-22.01-SG](inf03/inf03_2022_01_01) \
